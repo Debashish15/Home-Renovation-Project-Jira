@@ -20,13 +20,15 @@ This epic represents a complete kitchen renovation and breaks down into manageab
 
 ## 📊 Issues Presentation
 
-                           EPIC
-                            |
-     -------------------------------------------------
-     |                  |                 |          |
-   STORY              TASK               BUG    CREATE YOUR OWN
-    |                  |                  |          |
-  SUBTASK           SUBTASK            SUBTASK     SUBTASK
+```
+                                  EPIC  
+                                   |  
+        -------------------------------------------------  
+        |                 |                 |            |  
+      STORY             TASK              BUG     CREATE YOUR OWN  
+        |                 |                 |            |  
+     SUBTASK           SUBTASK          SUBTASK       SUBTASK  
+```
 
 
 
